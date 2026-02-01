@@ -1,0 +1,6 @@
+#ไม่เอาไฟล์ secret.txt
+secret.txt
+#ไม่เอาโฟลเดอร์ node_modules
+node_modules
+#ไม่เอาโฟลเดอร์ .log
+.log
